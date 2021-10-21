@@ -1,18 +1,18 @@
-**Usage**
+### Usage
 
 1.	Please Open the script and provide values for the following Variables:
 
-    •	OPS_MANAGER_USERNAME=TurboAdminAcc
+   * OPS_MANAGER_USERNAME=TurboAdminAcc
 
-    •	OPS_MANAGER_PASSWORD= TurboAdminAccPass
+   * OPS_MANAGER_PASSWORD= TurboAdminAccPass
 
-    •	DIAG_PATH="PATH/TO/DIAG/FOLDER” – Leave the quotes in place.
+   * DIAG_PATH="PATH/TO/DIAG/FOLDER” – Leave the quotes in place.
 
 2.	Upload the script to the Turbo Instance OVA
 3.	Run the script to test the process
 4.	Schedule a Cron Job
 
-**Script Steps**
+### Script Steps
 
 1.	Gets the date and time
 2.	The namespace is hard coded as turbonomic
