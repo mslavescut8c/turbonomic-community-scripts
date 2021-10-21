@@ -8,10 +8,9 @@
 
     •	DIAG_PATH="PATH/TO/DIAG/FOLDER” – Leave the quotes in place.
 
-2.	Rename the script to Gen_Diags_And_Copy.sh or whatever name you are comfortable with
-3.	Upload the script to the Turbo Instance OVA
-4.	Run the script to test the process
-5.	Schedule a Cron Job
+2.	Upload the script to the Turbo Instance OVA
+3.	Run the script to test the process
+4.	Schedule a Cron Job
 
 **Script Steps**
 
