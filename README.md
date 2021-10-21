@@ -1,4 +1,4 @@
-Usage
+**Usage**
 
 1.	Please Open the script and provide values for the following Variables:
 
@@ -13,7 +13,7 @@ Usage
 4.	Run the script to test the process
 5.	Schedule a Cron Job
 
-Script Steps
+**Script Steps**
 
 1.	Gets the date and time
 2.	The namespace is hard coded as turbonomic
